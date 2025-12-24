@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="01-Arrays\Medium\" />
+    <Folder Include="01-Arrays\Hard\" />
+  </ItemGroup>
+
 </Project>
