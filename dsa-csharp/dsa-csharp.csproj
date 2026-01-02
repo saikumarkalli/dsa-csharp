@@ -9,8 +9,27 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="03-Hashing\**" />
+    <Compile Remove="07-BinaryTrees\**" />
+    <Compile Remove="08-BinarySearch\**" />
+    <Compile Remove="08-DynamicProgramming\**" />
+    <EmbeddedResource Remove="03-Hashing\**" />
+    <EmbeddedResource Remove="07-BinaryTrees\**" />
+    <EmbeddedResource Remove="08-BinarySearch\**" />
+    <EmbeddedResource Remove="08-DynamicProgramming\**" />
+    <None Remove="03-Hashing\**" />
+    <None Remove="07-BinaryTrees\**" />
+    <None Remove="08-BinarySearch\**" />
+    <None Remove="08-DynamicProgramming\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="01-Arrays\Medium\" />
     <Folder Include="01-Arrays\Hard\" />
+    <Folder Include="02-Strings\" />
+    <Folder Include="04-LinkedList\" />
+    <Folder Include="05-Queue\" />
+    <Folder Include="06-Stack\" />
   </ItemGroup>
 
 </Project>
