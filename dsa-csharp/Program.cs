@@ -6,4 +6,4 @@ Console.WriteLine("DSA Solution started!!");
 
 //Array_Basics array_Basics = new Array_Basics();
 
-ForwardTraversal forwardTraversal = new ForwardTraversal();
+TraversalPatterns forwardTraversal = new TraversalPatterns();
