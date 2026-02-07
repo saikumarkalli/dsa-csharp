@@ -1,5 +1,13 @@
 https://chatgpt.com/share/6957df15-5914-8000-bc5a-c71e6a773420 : Repo design in GPT
 
+Operations:
+
+Insert
+Update
+Search
+Sorting
+Delete
+
 
 Collections:
 
@@ -14,7 +22,7 @@ Collections:
 
 Patterns:
 
-1. Two Pointers
+1. Two Pointers (left/right, fast/slow)
 2. 
 
 

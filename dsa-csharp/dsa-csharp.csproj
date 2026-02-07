@@ -26,7 +26,6 @@
   <ItemGroup>
     <Folder Include="01-Arrays\Medium\" />
     <Folder Include="01-Arrays\Hard\" />
-    <Folder Include="02-Strings\" />
     <Folder Include="04-LinkedList\" />
     <Folder Include="05-Queue\" />
     <Folder Include="06-Stack\" />
